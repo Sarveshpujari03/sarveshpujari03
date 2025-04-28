@@ -1,5 +1,5 @@
 # 💫 About Me:
-Education: Information Technology student at G H Raisoni College of Engineering and Management<br>Skills:<br>Proficient in C, C++,Python,HTML,CSS,JavaScript <br>Familiar with Java,Sql and Mongodb <br>Basics of Spring,Hibernate and Django <br>Passion: Enthusiastic and passionate about coding and development<br>Approach: Thrives on challenges and enjoys turning ideas into functional code<br>Learning: Dedicated to continuous learning and staying updated with the latest in the IT industry<br>Goal: Contributing to innovative projects and collaborating with fellow developers<br>Motto: Let's connect, collaborate, and code together! 🚀
+Education: Information Technology student at G H Raisoni College of Engineering and Management<br>Skills:<br>Proficient in C, C++,Python,HTML,CSS,JavaScript,Java,sql and Mongodb <br>Familiar with Spring ,Hibernate <br>Passion: Enthusiastic and passionate about coding and development<br>Approach: Thrives on challenges and enjoys turning ideas into functional code<br>Learning: Dedicated to continuous learning and staying updated with the latest in the IT industry<br>Goal: Contributing to innovative projects and collaborating with fellow developers<br>Motto: Let's connect, collaborate, and code together! 🚀
 
 
 ## 🌐 Socials:
