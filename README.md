@@ -1,5 +1,12 @@
 # 💫 About Me:
-Education: Information Technology student at G H Raisoni College of Engineering and Management<br>Skills:<br>Proficient in C, C++,Python,HTML,CSS,JavaScript,Java,sql and Mongodb <br>Familiar with Spring ,Hibernate <br>Passion: Enthusiastic and passionate about coding and development<br>Approach: Thrives on challenges and enjoys turning ideas into functional code<br>Learning: Dedicated to continuous learning and staying updated with the latest in the IT industry<br>Goal: Contributing to innovative projects and collaborating with fellow developers<br>Motto: Let's connect, collaborate, and code together! 🚀
+Education: Information Technology student at G.H. Raisoni College of Engineering and Management, Pune (Honors in Artificial Intelligence)<br>
+Skills: Proficient in C, C++, Python, Java, JavaScript, HTML, CSS, SQL, and MongoDB<br>
+Familiar with Spring Boot, Hibernate, JSP, Servlets, Bootstrap, Tailwind CSS, and React<br>
+Passion: Enthusiastic and passionate about coding, problem-solving, and full stack development<br>
+Approach: Thrives on challenges and enjoys turning ideas into functional, scalable solutions<br>
+Learning: Dedicated to continuous learning and staying updated with the latest trends and technologies in the software development ecosystem<br>
+Goal: To contribute to innovative real-world projects and collaborate with developers and engineers<br>
+Motto: Let's connect, collaborate, and code together! 🚀
 
 
 ## 🌐 Socials:
